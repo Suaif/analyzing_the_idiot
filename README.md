@@ -20,3 +20,5 @@ Key words: Text Mining, Information Retrieval, NER, text classification, BERT
 * entities.xlsx -> List of the entities extracted before the normalization with the number of appearances in the book
 * interactions.xlsx -> NUmber of interactions measured by characters with different window sizes, is the file used in Flourish Studio
 * the_idiot_raw.txt -> Text file with the book once manually removed the introduction and some license information
+
+![Alt Text](cover_image.png)

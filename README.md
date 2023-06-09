@@ -1,5 +1,7 @@
 # analyzing_the_idiot
 
+![Alt Text](cover_image.png)
+
 This project was part of the Information Retrieval and Text MIning course from Maastricht University
 
 This report is based on an information extraction process over the Dostoyevsky’s novel ‘The Idiot’,
@@ -20,5 +22,3 @@ Key words: Text Mining, Information Retrieval, NER, text classification, BERT
 * entities.xlsx -> List of the entities extracted before the normalization with the number of appearances in the book
 * interactions.xlsx -> NUmber of interactions measured by characters with different window sizes, is the file used in Flourish Studio
 * the_idiot_raw.txt -> Text file with the book once manually removed the introduction and some license information
-
-![Alt Text](cover_image.png)
